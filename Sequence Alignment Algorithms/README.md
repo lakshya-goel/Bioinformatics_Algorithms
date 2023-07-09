@@ -8,6 +8,6 @@ This algorithm performs global sequence alignment, where the entire sequences ar
 This algorithm is similar to Needleman-Wunsch but is used for local sequence alignment. It identifies the best alignment within a subset of the sequences rather than aligning the entire sequences. It also uses dynamic programming and is useful for identifying regions of similarity between sequences.
 ## Screenshots
 
-![Needleman-wunsch](Images/needleman-wunsch.png)
+![Needleman-wunsch]([Images/needleman-wunsch.png](https://github.com/lakshya-goel/Bioinformatics_Algorithms/blob/main/Images/needleman-wunsch.png)https://github.com/lakshya-goel/Bioinformatics_Algorithms/blob/main/Images/needleman-wunsch.png)
 ![Smith-waterman](Images/smith-waterman.png)
 
