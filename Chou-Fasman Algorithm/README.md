@@ -35,4 +35,4 @@ My implementation considers only alpha helices (denoted by 'H') and beta strands
 
 ## Screenshot
 
-![Chou-Fasman](Images/chou-fasman.png)
+![chou-fasman](Images/chou-fasman.png)
