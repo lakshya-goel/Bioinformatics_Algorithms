@@ -6,8 +6,6 @@ This repository contains implementation of Sequence alignment algorithms: **Need
 
 ## Documentation
 
-More information on these can be read here
-
 [Needle-Wunsch algorithm](https://en.wikipedia.org/wiki/Needleman%E2%80%93Wunsch_algorithm)\
 [Smith-Waterman algorithm](https://en.wikipedia.org/wiki/Smith%E2%80%93Waterman_algorithm)\
 [Chou-Fasman algorithm](https://en.wikipedia.org/wiki/Chou%E2%80%93Fasman_method)
